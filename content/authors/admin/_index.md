@@ -86,16 +86,16 @@ Inter & Project Experience:
     company_url: ''
     company_logo: ''
     date_start: 2020-08-01
-    date_end: 2021
-    summary: |
+    date_end: 2021-08-01
+    summary: |2-
       Standard Knowledge Graph Construction and Intelligent Applications, including Knowledge Extraction from Standard Files, Knowledge recommendation, Knowledge Conflict Detection
 - position: Algorithm Engineer
     company_name: Huawei Technologies Co., Ltd
     company_url: ''
     company_logo: ''
-    date_start: 2018
-    date_end: 2020
-    summary: |
+    date_start: 2018-08-01
+    date_end: 2020-08-01
+    summary: |2-
       Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; Text Understanding and Knowledge Extraction
   
 
@@ -148,14 +148,14 @@ languages:
 awards:
   - title: Nathional Scholarship and Principle's scholarship 
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2022'
+    date: 2022-08-01
     awarder: Coursera
     icon: coursera
     summary: |
       First Prize
   - title: AAAI Student Scholarship Program Scholarship
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2021'
+    date: 2021
     awarder: edX
     icon: edx
     summary: |
@@ -163,7 +163,7 @@ awards:
   - title: Conference APWEB-WAIM-2021
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # certificate_url: https://www.datacamp.com
-    date: '2021'
+    date: 2021
     awarder: datacamp
     icon: datacamp
     summary: |
@@ -171,7 +171,7 @@ awards:
   - title: National Text Intelligent Processing Challenge
   # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
   # certificate_url: https://www.datacamp.com
-  date: '2021'
+  date: 2021
   awarder: datacamp
   icon: datacamp
   summary: |
