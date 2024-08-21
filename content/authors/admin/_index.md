@@ -80,17 +80,17 @@ Inter & Project Experience:
     company_name: Kingsoft Office Software, Inc.(WPS)
     company_url: ''
     company_logo: ''
-    date_start: 2020
-    date_end: 2021
+    date: 2020-2021
     summary: |
-      Standard Knowledge Graph Construction and Intelligent Applications, including Knowledge Extraction from Standard Files,
-      Knowledge recommendation, Knowledge Conflict Detection
+      Standard knowledge graph construction and intelligent applications, including:
+      - Knowledge Extraction from Standard Files
+      - Knowledge Recommendation
+      - Knowledge Conflict Detection
 - position: Algorithm Engineer
     company_name: Huawei Technologies Co., Ltd
     company_url: ''
     company_logo: ''
-    date_start: 2018
-    date_end: 2020
+    date: 2018-2020
     summary: |
       Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; 
       Text Understanding and Knowledge Extraction
