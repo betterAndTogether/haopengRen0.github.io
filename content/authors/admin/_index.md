@@ -168,11 +168,11 @@ awards:
   - title: National Text Intelligent Processing Challenge
   # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
   # certificate_url: https://www.datacamp.com
-  date: 2021
-  awarder: datacamp
-  icon: datacamp
-  summary: |
-    First Prize
+    date: 2021
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      First Prize
 ---
 
 ## About Me
