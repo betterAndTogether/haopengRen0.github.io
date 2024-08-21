@@ -81,19 +81,19 @@ Inter & Project Experience:
     company_url: ''
     company_logo: ''
     date: 2020-2021
-    summary: | 
+    summary: |
       Standard knowledge graph construction and intelligent applications, including:
       - Knowledge Extraction from Standard Files
       - Knowledge Recommendation
       - Knowledge Conflict Detection
   - position: Algorithm Engineer
-      company_name: Huawei Technologies Co., Ltd
-      company_url: ''
-      company_logo: ''
-      date: 2018-2020
-      summary: |
-        Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; 
-        Text Understanding and Knowledge Extraction
+    company_name: Huawei Technologies Co., Ltd
+    company_url: ''
+    company_logo: ''
+    date: 2018-2020
+    summary: |
+      Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; 
+      Text Understanding and Knowledge Extraction
   
 
 # Skills
