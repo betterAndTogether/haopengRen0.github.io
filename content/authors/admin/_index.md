@@ -75,28 +75,25 @@ education:
     date_end: 2013-06-01
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 Inter & Project Experience:
   - position: Algorithm Engineer
     company_name: Kingsoft Office Software, Inc.(WPS)
     company_url: ''
     company_logo: ''
-    date_start: 2020-08-01
-    date_end: 2021-08-01
-    summary: |2-
-      Standard Knowledge Graph Construction and Intelligent Applications, including Knowledge Extraction from Standard Files, Knowledge recommendation, Knowledge Conflict Detection
+    date_start: 2020
+    date_end: 2021
+    summary: |
+      Standard Knowledge Graph Construction and Intelligent Applications, including Knowledge Extraction from Standard Files,
+      Knowledge recommendation, Knowledge Conflict Detection
 - position: Algorithm Engineer
     company_name: Huawei Technologies Co., Ltd
     company_url: ''
     company_logo: ''
-    date_start: 2018-08-01
-    date_end: 2020-08-01
-    summary: |2-
-      Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; Text Understanding and Knowledge Extraction
+    date_start: 2018
+    date_end: 2020
+    summary: |
+      Knowledge Graph Construction for Intelligent Manufacturing, including Data Cleaning and denosing; 
+      Text Understanding and Knowledge Extraction
   
 
 # Skills
